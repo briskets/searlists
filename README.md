@@ -1,2 +1,2 @@
 # searlists
-Reviving abandoned wordlists
+Collection of relatively 'small' and themed wordlists.
